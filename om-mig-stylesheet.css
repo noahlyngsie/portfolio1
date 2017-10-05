@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.wrapper {
+	font-family: "Roboto Condensed Light", "Helvetica Neue Italic", Arial;
+	display: flex;
+	flex-wrap: wrap;
+	color: #2d4da0;
+}
+.mig {
+	padding-top: 60px;
+	border-bottom: 1px solid;
+	margin: 0 0 90px 0;
+}
+.kontakt {
+	padding-top: 60px;
+	color: #2d4da0;
+	border-bottom: 1px solid;
+	margin: 0 0 90px 0;
+}
+.item {
+	text-align: center;
+	width: 31%;
+	font-family: "Roboto Condensed Light", "Helvetica Neue Italic", Arial, sans serif;
+}
+.selected {
+	text-decoration: none;
+}
+#kasse1 {
+	margin-top: 10px;
+	float: right;
+	display: block;
+	width: 50%;
+}
+#kasse2 {
+	float: left;
+	width: 250px;
+}
+.row {
+	width: 70%;
+	margin-top: 70px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+
+
